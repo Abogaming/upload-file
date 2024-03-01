@@ -29,7 +29,10 @@
     "middleware"
   ],
   "license": "MIT",
-  "repository": "richardgirges/express-fileupload",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardgirges/express-fileupload.git"
+  },
   "devDependencies": {
     "coveralls": "^3.1.1",
     "eslint": "^7.31.0",
